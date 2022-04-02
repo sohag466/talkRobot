@@ -12,7 +12,13 @@ btn.addEventListener("click", function () {
     reply = "ami vbanglay gan gai";
   }
   else if(c.match('munni')){
-    reply = "ami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gaiami vbanglay gan gai";
+    reply = "I Love you";
+  }
+  else if(c.match('ariful')){
+    reply = "Sadia";
+  }
+  else if(c.match('khairul')){
+    reply = "Sumaiya";
   }
   else if(c.match("tumar nam ki")){
     reply = "amar nam sohag ";

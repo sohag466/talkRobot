@@ -30,6 +30,10 @@
      height: 70px; 
       top:31px;position: relative;left:6px;
     }
+    .ans{
+        margin-top: 25px;
+        
+    }
 .search img{
     width:75px;
     border-radius: 50%;
@@ -42,6 +46,7 @@
         background-repeat: no-repeat;
         
     }
+
     
        
     }
