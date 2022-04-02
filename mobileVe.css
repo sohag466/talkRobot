@@ -1,0 +1,48 @@
+
+@media only screen and (max-width: 600px) {
+    body{
+        background-image: url("image/pngtree-valentines-day-theme-background-map-image_542293.jpg");
+        background-size: 700px;
+        max-height: 100%;
+        background-repeat: no-repeat;
+        overflow: hidden;
+        
+    }
+    .tlBody{
+        position: relative;
+        margin: 25% 5%;
+        
+    }
+    .message{
+        width: 240px;
+        height: 30px;
+        border: 2px solid rgb(55, 0, 255);
+        font-size: 22px;
+        color: #000;
+        font-weight: 700;}
+    
+      .search{
+    text-transform: uppercase;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+     width:70px; 
+     height: 70px; 
+      top:31px;position: relative;left:6px;
+    }
+.search img{
+    width:75px;
+    border-radius: 50%;
+}
+  }
+  @media only screen and (max-width:360px) {
+    body{
+        background-image: url("image/pngtree-valentines-day-theme-background-map-image_542293.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+    
+       
+    }
+  }
