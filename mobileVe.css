@@ -2,7 +2,7 @@
 @media only screen and (max-width: 600px) {
     body{
         background-image: url("image/pngtree-valentines-day-theme-background-map-image_542293.jpg");
-        background-size: 700px;
+        background-size:850px;
         max-height: 100%;
         background-repeat: no-repeat;
         overflow: hidden;
@@ -10,7 +10,7 @@
     }
     .tlBody{
         position: relative;
-        margin: 25% 5%;
+        margin: 50% 5%;
         
     }
     .message{
