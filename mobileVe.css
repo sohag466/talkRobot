@@ -4,7 +4,8 @@
     body{
         background-size:1600px;
         max-height: 100%;
-        background-repeat: no-repeat;      
+        background-repeat: no-repeat;  
+            
     }
     .tlBody{
         position: relative;
@@ -49,7 +50,7 @@
   @media only screen and (max-width:360px) {
     body{
         background-image: url("image/pngtree-valentines-day-theme-background-map-image_542293.jpg");
-        background-size: cover;
+        background-size:642px;
         background-repeat: no-repeat;
         
     }
