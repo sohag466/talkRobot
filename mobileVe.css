@@ -1,8 +1,15 @@
-
+@media only screen and (max-width:800px) {
+    body{
+        background-size:1600px;
+        max-height: 100%;
+        background-repeat: no-repeat;  
+            
+    }
+}
 
 @media only screen and (max-width:720px) {
     body{
-        background-size:1600px;
+        background-size:800px;
         max-height: 100%;
         background-repeat: no-repeat;  
             
