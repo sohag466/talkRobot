@@ -18,7 +18,7 @@ btn.addEventListener("click", function () {
     reply = "Sadia";
   }
   else if(c.match('khairul')){
-    reply = "Sumaiya";
+    reply = "Hello Monalisa. how are you . I love you";
   }
   else if(c.match("tumar nam ki")){
     reply = "amar nam sohag ";
